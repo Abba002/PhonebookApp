@@ -56,22 +56,9 @@ Search for employees by name, ID, or branch location.
 
 Update, display, or delete employee details as required.
 
-🔮 Future Enhancements
-
-✅ Web-based UI for easy access
-
-✅ Role-based access control (Admins vs. Users)
-
-✅ API Integration for external services
-
-🤝 Contributing
-
-Contributions are welcome! Feel free to fork this repository, submit issues, and open pull requests.
 
 📫 Contact
 
 GitHub: Abba002
 
-Email: YOUR-EMAIL@domain.com
 
-🚀 Happy Coding! 🎉
